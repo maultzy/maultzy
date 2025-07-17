@@ -19,3 +19,7 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/maultzy/maultzy/output/snake.svg" alt="Snake animation" />
+
+###
