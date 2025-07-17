@@ -1,4 +1,4 @@
-## 👋 Hello World I'm Vyzen
+## Hello World I'm Vyzen 👋
 
 ![maultzy](img/a396600a9c21d31894e3a53bccb98cda.jpg) 
 
